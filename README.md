@@ -10,12 +10,12 @@
 
 
 Graduando em Análise e Desenvolvimento de Sistemas
+
 Sou Analista de BI( Business Intelligence ), profissional "hands on", resiliente, apaixonado por BI e Análise de Dados.
 
 Forte atuação em planejamento, processos e projetos, com conhecimentos avançados no Pacote Office, Banco de Dados, Integration Services, Power BI, entre outros.
 
-Devido às experiências anteriores, nas quais foram desenvolvidas capacidades analíticas, de melhorias de processos, planejamento e organização, além da flexibilidade para atuar em diferentes ambientes, comunicação interpessoal com diferentes perfis, liderança e engajamento colaborativo nos trabalhos em equipe.
-As vivências internacionais e voluntárias, proporcionaram aprendizados relevantes como conhecimento de novas culturas e etnias, iniciativa, visão sistêmica, para atingir objetivos propostos e na busca do aprimoramento contínuo.
+Devido às experiências anteriores, nas quais foram desenvolvidas capacidades analíticas, de melhorias de processos, planejamento e organização, além da flexibilidade para atuar em diferentes ambientes, comunicação interpessoal com diferentes perfis, liderança e engajamento colaborativo nos trabalhos em equipe. As vivências internacionais e voluntárias, proporcionaram aprendizados relevantes como conhecimento de novas culturas e etnias, iniciativa, visão sistêmica, para atingir objetivos propostos e na busca do aprimoramento contínuo.
 
 Conhecimento e Experiências em:
 
