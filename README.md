@@ -3,8 +3,11 @@
 ### Olá pessoal, me chamo Alysson Milet!!!  👋
 ### Sou apaixonado por tecnologia, inovação e aprender coisas novas e resolver problemas utilizando a programação.
 ◾ 📌 Sou Aracajuano raiz( Aracaju/SE ).
+
 ◾ 💬 Buscando colaborar com projetos em Python e Power BI
+
 ◾ 🎓 Autodidata formado por diversos curso online ([Certificados](https://github.com/alyssonmilet/Certificados))
+
 
 Graduando em Análise e Desenvolvimento de Sistemas
 Sou Analista de BI( Business Intelligence ), profissional "hands on", resiliente, apaixonado por BI e Análise de Dados.
@@ -17,25 +20,43 @@ As vivências internacionais e voluntárias, proporcionaram aprendizados relevan
 Conhecimento e Experiências em:
 
 ◼️◼️◼️◼️◼️ Excel Avançado
+
 ◼️◼️◼️◼️◼️ Pacote Office
+
 ◼️◼️◼️◻️◻️ Power Plataform
+
 ◼️◼️◼️◼️◼️ Power BI / DAX / M
+
 ◼️◼️◻️◻️◻️ Tableau
+
 ◼️◼️◼️◻️◻️ QlikView / QlikSense
-◼️◼️◼️◻️◻️ Análise Dimensional e Análise Relacional;
+
+◼️◼️◼️◻️◻️ Análise Dimensional e Análise Relacional
+
 ◼️◼️◼️◼️◻️ Python3
+
 ◼️◼️◼️◻️◻️ Cloud AWS / GCP
+
 ◼️◼️◼️◼️◼️ Metodologia Ágil / Scrum
+
 ◼️◼️◼️◻️◻️ SQL Server Integration Services
+
 ◼️◼️◻️◻️◻️ MongoDB
+
 ◼️◼️◼️◻️◻️ ETL
+
 ◼️◼️◼️◻️◻️ Cloud
+
 ◼️◼️◼️◻️◻️ Git
+
 ◼️◼️◼️◻️◻️ HTML/Css
+
 ◼️◼️◻️◻️◻️ JavaScript
 
-✉ alyssonmilet@yahoo.com.br
-📞 +55 (79) 98827-8233
+
+
+
+
 
 ### ⚡ Habilidades:
 
@@ -63,3 +84,4 @@ Conhecimento e Experiências em:
 
 [![Linkedin Badge](https://camo.githubusercontent.com/975dc7c03d5728b21d58a849a3d177bb1255a1cfd2a252f6443f0dc79b7d70d3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f6c696e6b6564696e2e636f6d2f696e2f6272756e6f6c75697373)](https://www.linkedin.com/in/alysson-milet/) [![Gmail Badge](https://img.shields.io/badge/-alyssonmilet@yahoo.com.br-c14438?style=flat-square&logo=Yahoo&logoColor=white&link=mailto:alyssonmilet@yahoo.com.br)](mailto:alyssonmilet@yahoo.com.br) [![Instagram](https://camo.githubusercontent.com/8224f30b19e104d6395ee900705e609826cadd6b23bb393071763c0943696ae3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e7374616772616d2d4534343035463f266c6f676f3d496e7374616772616d266c6f676f436f6c6f723d464646464646)](https://www.instagram.com/alysson.danymilet/)
 
+📞 +55 (79) 98827-8233
