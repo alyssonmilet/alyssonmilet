@@ -1,20 +1,41 @@
 # Seja bem vindo ao meu GitHub🚀
 
 ### Olá pessoal, me chamo Alysson Milet!!!  👋
-
-##### Sou apaixonado por resolver problemas utilizando a programação.
-
-Atuar na área da tecnologia da informação, com análise e/ou desenvolvimento de sistemas utilizando Python.
-
-
-
+### Sou apaixonado por tecnologia, inovação e aprender coisas novas e resolver problemas utilizando a programação.
 ◾ 📌 Sou Aracajuano raiz( Aracaju/SE ).
-
-◾ 💬 Buscando colaborar com projetos em Python 
-
+◾ 💬 Buscando colaborar com projetos em Python e Power BI
 ◾ 🎓 Autodidata formado por diversos curso online ([Certificados](https://github.com/alyssonmilet/Certificados))
 
+Graduando em Análise e Desenvolvimento de Sistemas
+Sou Analista de BI( Business Intelligence ), profissional "hands on", resiliente, apaixonado por BI e Análise de Dados.
 
+Forte atuação em planejamento, processos e projetos, com conhecimentos avançados no Pacote Office, Banco de Dados, Integration Services, Power BI, entre outros.
+
+Devido às experiências anteriores, nas quais foram desenvolvidas capacidades analíticas, de melhorias de processos, planejamento e organização, além da flexibilidade para atuar em diferentes ambientes, comunicação interpessoal com diferentes perfis, liderança e engajamento colaborativo nos trabalhos em equipe.
+As vivências internacionais e voluntárias, proporcionaram aprendizados relevantes como conhecimento de novas culturas e etnias, iniciativa, visão sistêmica, para atingir objetivos propostos e na busca do aprimoramento contínuo.
+
+Conhecimento e Experiências em:
+
+◼️◼️◼️◼️◼️ Excel Avançado
+◼️◼️◼️◼️◼️ Pacote Office
+◼️◼️◼️◻️◻️ Power Plataform
+◼️◼️◼️◼️◼️ Power BI / DAX / M
+◼️◼️◻️◻️◻️ Tableau
+◼️◼️◼️◻️◻️ QlikView / QlikSense
+◼️◼️◼️◻️◻️ Análise Dimensional e Análise Relacional;
+◼️◼️◼️◼️◻️ Python3
+◼️◼️◼️◻️◻️ Cloud AWS / GCP
+◼️◼️◼️◼️◼️ Metodologia Ágil / Scrum
+◼️◼️◼️◻️◻️ SQL Server Integration Services
+◼️◼️◻️◻️◻️ MongoDB
+◼️◼️◼️◻️◻️ ETL
+◼️◼️◼️◻️◻️ Cloud
+◼️◼️◼️◻️◻️ Git
+◼️◼️◼️◻️◻️ HTML/Css
+◼️◼️◻️◻️◻️ JavaScript
+
+✉ alyssonmilet@yahoo.com.br
+📞 +55 (79) 98827-8233
 
 ### ⚡ Habilidades:
 
